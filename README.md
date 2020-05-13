@@ -1,1 +1,1 @@
-# This is a sampel file
+# This is a sample file
